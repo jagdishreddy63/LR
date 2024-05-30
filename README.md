@@ -1,0 +1,2 @@
+# LR
+Logistic Regression
